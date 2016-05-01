@@ -1,0 +1,10 @@
+.idea/
+*.iml
+*.swp
+*.userprefs
+
+packages/
+bin/
+obj/
+
+

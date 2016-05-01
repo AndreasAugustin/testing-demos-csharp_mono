@@ -1,0 +1,8 @@
+language: csharp
+
+solution: ClassLibrary/ClassLibrary.sln
+
+notification:
+  email:
+    andy.augustin@t-online.de
+ 
